@@ -11,3 +11,5 @@ __MACOSX
 .idea
 dist/
 .env
+coverage/
+.nyc_output/
